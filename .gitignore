@@ -1,4 +1,7 @@
 ./*.iml
 .idea
-./spring-cloud-stream-binder-apache-pulsar.iml
+spring-cloud-stream-binder-apache-pulsar.iml
 spring-cloud-stream-binder-apache-pulsar-parent.iml
+spring-cloud-stream-binder-apache-pulsar-streams/spring-cloud-stream-binder-apache-pulsar-streams.iml
+spring-cloud-stream-binder-apache-pulsar/target
+spring-cloud-stream-binder-apache-pulsar-streams/target
